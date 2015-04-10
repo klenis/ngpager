@@ -5,7 +5,7 @@
     "Pontjho Mokhonoana <pontjho@gmail.com>"
   ],
   "description": "Paging control",
-  "main": "pager.js",
+  "main": "ngpager.js",
   "keywords": [
     "pager",
     "angularjs",
